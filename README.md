@@ -84,7 +84,7 @@ The repository has the following structure :
 8) Quantum Finance: Portfolio Optimization
 
 
-9)Build a Multi-Qubit Quantum State Tomography Tool
+9) Build a Multi-Qubit Quantum State Tomography Tool
 
 
-10)Advanced Quantum Game Simulation
+10) Advanced Quantum Game Simulation
