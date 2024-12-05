@@ -1,90 +1,48 @@
-# QuantumOP
-This epository contains my Quantum Projects i did through various workshops and courses . The following file contains code in qiskit , cirq ,Q# and open quasm
-The repository has the following structure :
+## Overview
 
-**BEGINNER PROJECTS (cirq and qiskit )**
+This Repository is designed for learning and experimenting with quantum computing frameworks like qiskit, cirq. It contains the range of projects starting from beginner level and leveling up to more advanced projects
 
-1) Quantum Coin flip
+  
+  
 
+## Getting started
 
-2) Quantum Entanglement 
+Follow these steps to get started
 
+  
 
-3) Simple Quantum Teleportation
+1. Clone this repository
 
+  
 
-4) Quantum Half adder 
+``git clone https://github.com/AdwaithaV/QuantumOP.git``
 
+`` cd QuantumOP``
 
-5) Deutsch-Josza Algorithm
+  
 
+2. Install dependencies
 
-6) Quantum Random Number Generator
+* Ensure you have installed python
 
+* Install required libs for qiskit and cirq
 
-7) Visualizing Quantum Interference
+``pip install qiskit cirq``
 
+  
 
+* Explore the beginner projects to try out examples and learn the basics
 
-**INTERMEDIATE PROJECTS (qiskit and cirq )**
+  
 
-1) Grover's Algorithm for a Simple Database Search
+3. Contributing
 
+We Welcome contributions
 
-2) Quantum Phase Estimation
+  
 
+1. Fork the repository
 
-3) Implement Variational Quantum Eigensolver (VQE)
+2. Create a new branch for new feauture/bug fix
 
-
-4) Quantum Error Correction Code
-
-
-5) Build a Quantum Full Adder
-
-
-6) Quantum Circuit for Simon's Problem
-
-
-7) Quantum Fourier Transform (QFT) Implementation
-
-
-8) Bell Inequality Test (CHSH Inequality)
-
-
-9) Quantum Teleportation with Error Simulation
-
-
-10) Implement Shor's Algorithm for a Small Number
-
-**ADVANCED PROJECTS**
-
-
-1) Shor's Algorithm for Large Numbers
-
-
-2) Variational Quantum Approximate Optimization Algorithm (QAOA)
-
-
-3) Implement Quantum Machine Learning (QML) Model
-
-
-4) Quantum Chemistry with VQE
-
-
-5) Implement Quantum Error Correction with Surface Code
-
-
-6) Quantum Cryptography: BB84 Protocol
-
-
-7) Implement HHL Algorithm
-
-
-8) Quantum Finance: Portfolio Optimization
-
-
-9) Build a Multi-Qubit Quantum State Tomography Tool
-
-
-10) Advanced Quantum Game Simulation
+3. submit a pull request with detailed explanations of your changes
