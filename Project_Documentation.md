@@ -40,6 +40,11 @@ This repository contains my Quantum Projects i did through various workshops and
 
 7) Visualizing Quantum Interference
 
+
+
+8)Bell states
+
+
   
   
   
