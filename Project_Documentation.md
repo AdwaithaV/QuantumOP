@@ -1,160 +1,113 @@
-# QuantumOP
 
-This repository contains my Quantum Projects i did through various workshops and courses . The following file contains code in qiskit , cirq ,Q# and open quasm
+QuantumOP Repository Structure
+==============================
 
-  
+QuantumOP is a curated collection of quantum computing projects developed using Qiskit, Cirq, Q#, and OpenQASM. These projects span foundational concepts, core quantum algorithms, and real-world applications in quantum chemistry, cryptography, and optimization.
 
-**BEGINNER PROJECTS (cirq and qiskit )**
+1. FUNDAMENTALS
+---------------
+Goal: Learn the building blocks — gates, states, measurements, superposition, and entanglement.
 
-  
+Folder: 01_Fundamentals/
 
-1) Quantum Coin flip
+- qubit_basics.py: Superposition and Measurement on Single Qubits
+- coin_flip.py: Simulating a Quantum Coin Flip
+- entanglement_bell.py: Create and measure Bell states
+- quantum_interference.py: Visualize double-slit quantum interference
+- bloch_sphere_visuals.py: Real-time Bloch sphere representation
 
-  
-  
+2. QUANTUM COMMUNICATION
+-------------------------
+Goal: Understand quantum data transfer and encoding techniques.
 
-2) Quantum Entanglement
+Folder: 02_Quantum_Communication/
 
-  
-  
+- teleportation_basic.py: Quantum teleportation with noiseless channels
+- superdense_coding.py: Send 2 classical bits using 1 qubit
+- quantum_rng.py: Generate truly random numbers using measurement
+- bb84_protocol.py: Simulate the BB84 Quantum Key Distribution
+- error_simulation.py: Teleportation with noise (decoherence & error)
 
-3) Simple Quantum Teleportation
+3. QUANTUM ALGORITHMS
+----------------------
+Goal: Explore algorithms with speed-up advantages over classical ones.
 
-  
-  
+Folder: 03_Quantum_Algorithms/
 
-4) Quantum Half adder
+- deutsch_jozsa.py: Early quantum speedup
+- simon_problem.py: Find hidden periodicity in a function
+- grover_search.py: Search an unsorted list faster
+- qpe.py: Quantum Phase Estimation
+- qft.py: Quantum Fourier Transform
+- shor_small.py: Shor’s algorithm for factoring small numbers
+- shor_large.py: Optimized Shor's Algorithm for large integers
+- hhl.py: Solve linear systems of equations (HHL Algorithm)
 
-  
-  
+4. QUANTUM ERROR CORRECTION
+----------------------------
+Goal: Understand noise and how to mitigate it.
 
-5) Deutsch-Josza Algorithm
+Folder: 04_Error_Correction/
 
-  
-  
+- bit_flip_code.py: Classical bit-flip error correction
+- phase_flip_code.py: Phase-flip error
+- shor_code.py: Shor’s 9-qubit code
+- surface_code_intro.py: Basic Surface Code Architecture
 
-6) Quantum Random Number Generator
+5. VARIATIONAL QUANTUM ALGORITHMS
+----------------------------------
+Goal: Use parameterized circuits and hybrid classical-quantum systems.
 
-  
-  
+Folder: 05_Variational_Algorithms/
 
-7) Visualizing Quantum Interference
+- vqe_molecule.py: VQE for H₂ molecule ground state
+- vqe_general.py: Custom Hamiltonians
+- qaoa.py: Max-Cut using QAOA
+- qml_classification.py: Quantum-enhanced machine learning
 
+6. QUANTUM CHEMISTRY
+---------------------
+Goal: Use quantum computing to simulate molecules.
 
+Folder: 06_Quantum_Chemistry/
 
-8) Bell states
+- hydrogen_vqe.py: Ground state of Hydrogen using VQE
+- lih_molecule.py: Simulating LiH molecule energy levels
+- uccsd_ansatz.py: Unitary Coupled Cluster method
 
+7. QUANTUM FINANCE
+-------------------
+Goal: Apply quantum techniques to finance.
 
-9) SuperDense Coding
+Folder: 07_Quantum_Finance/
 
+- portfolio_optimization.py: Use QAOA for risk-return optimization
+- european_option_pricing.py: Simulate option pricing models
+- amplitude_estimation.py: Use Quantum Amplitude Estimation in finance
 
+8. UTILITIES & TOOLS
+---------------------
+Goal: Reusable modules and visualization tools.
 
-  
-  
-  
+Folder: 08_Utilities/
 
-**INTERMEDIATE PROJECTS (qiskit and cirq )**
+- state_tomography_tool.py: Multi-qubit state tomography
+- circuit_visualizer.py: Generate interactive diagrams
+- noise_simulator.py: Add noise models to any circuit
 
-  
+9. QUANTUM GAMES & SIMULATIONS
+-------------------------------
+Goal: Build simulations to teach or demonstrate quantum behavior.
 
-1) Grover's Algorithm for a Simple Database Search
+Folder: 09_Games_And_Simulations/
 
-  
-  
+- quantum_maze_game.py: Navigate using quantum randomness
+- quantum_tic_tac_toe.py: Entangled game logic
+- advanced_sim_game.py: Interactive multi-qubit environment
 
-2) Quantum Phase Estimation
+10. CONTRIBUTION & ROADMAP
+---------------------------
+Folder: 10_Contribution_Guide/
 
-  
-  
-
-3) Implement Variational Quantum Eigensolver (VQE)
-
-  
-  
-
-4) Quantum Error Correction Code
-
-  
-  
-
-5) Build a Quantum Full Adder
-
-  
-  
-
-6) Quantum Circuit for Simon's Problem
-
-  
-  
-
-7) Quantum Fourier Transform (QFT) Implementation
-
-  
-  
-
-8) Bell Inequality Test (CHSH Inequality)
-
-  
-  
-
-9) Quantum Teleportation with Error Simulation
-
-  
-  
-
-10) Implement Shor's Algorithm for a Small Number
-
-  
-  
-
-**ADVANCED PROJECTS**
-
-  
-  
-
-1) Shor's Algorithm for Large Numbers
-
-  
-  
-
-2) Variational Quantum Approximate Optimization Algorithm (QAOA)
-
-  
-  
-
-3) Implement Quantum Machine Learning (QML) Model
-
-  
-  
-
-4) Quantum Chemistry with VQE
-
-  
-  
-
-5) Implement Quantum Error Correction with Surface Code
-
-  
-  
-
-6) Quantum Cryptography: BB84 Protocol
-
-  
-  
-
-7) Implement HHL Algorithm
-
-  
-  
-
-8) Quantum Finance: Portfolio Optimization
-
-  
-  
-
-9) Build a Multi-Qubit Quantum State Tomography Tool
-
-  
-  
-
-10) Advanced Quantum Game Simulation
+- contribution.md: How to contribute projects
+- roadmap.md: Upcoming topics: Adiabatic QC, D-Wave projects, etc.
