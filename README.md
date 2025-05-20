@@ -55,7 +55,7 @@ Then explore intermediate projects for algorithms and circuit synthesis.
 
 
 
-##🤝 Contributing
+## 🤝 Contributing
 
 
 We welcome contributions from the community! To contribute:
@@ -70,7 +70,7 @@ Submit a Pull Request (PR) with a detailed explanation of your changes
 
 
 
-##📄 License
+## 📄 License
 
 
 This project is licensed under the BSD 3-Clause License.
@@ -81,13 +81,13 @@ See the full license text in the LICENSE file.
 
 
 
-##🧩 Topics
+## 🧩 Topics
 
 
 quantum • quantum-computing • quantum-algorithms • qiskit • cirq • quantumma
 
 
-##📚 Resources
+## 📚 Resources
 
 
 [Qiskit Textbook](https://github.com/RafeyIqbalRahman/Qiskit-Textbook)
@@ -98,7 +98,7 @@ quantum • quantum-computing • quantum-algorithms • qiskit • cirq • qua
 
 
 
-##👤 Author
+## 👤 Author
 
 
 Adwaitha V
@@ -109,7 +109,7 @@ https://github.com/AdwaithaV
 adwaithav063@gmail.com 
 
 
-🌟 Support
+## 🌟 Support
 If you find this project helpful, please consider giving it a ⭐ and sharing it with others in the quantum community!
 
 
