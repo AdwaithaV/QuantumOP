@@ -87,10 +87,4 @@ If you find this project helpful, please consider giving it a ⭐ and sharing it
 
 
 
-  
 
-1. Fork the repository
-
-2. Create a new branch for new feauture/bug fix
-
-3. submit a pull request with detailed explanations of your changes
