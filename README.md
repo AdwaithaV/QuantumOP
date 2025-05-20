@@ -71,16 +71,21 @@ You may freely use, modify, and distribute this project with attribution. Howeve
 
 See the full license text in the LICENSE file.
 
+
+
 🧩 Topics
 quantum • quantum-computing • quantum-algorithms • qiskit • cirq • quantumma
 
-📚 Resources
-Qiskit Documentation
 
-Cirq Documentation
+📚 Resources
+[Qiskit Textbook](https://github.com/RafeyIqbalRahman/Qiskit-Textbook)
+
+[Cirq Documentation](https://quantumai.google/reference/python/cirq/all_symbols)
+
 
 👤 Author
 Adwaitha V
+
 
 🌟 Support
 If you find this project helpful, please consider giving it a ⭐ and sharing it with others in the quantum community!
