@@ -3,9 +3,11 @@
 
 ## ✅ `CODE_OF_CONDUCT.md`
 
+
+
 > Promotes respectful collaboration and a welcoming environment.
 
-```markdown
+
 # Code of Conduct
 
 ## Our Pledge
@@ -49,7 +51,7 @@ This Code of Conduct applies within all project spaces — GitHub issues, pull r
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the maintainer at:  
-📧 **adwaithav.dev@gmail.com**
+📧 **adwaithav063@gmail.com**
 
 All complaints will be reviewed and investigated promptly.
 
