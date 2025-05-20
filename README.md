@@ -37,10 +37,10 @@ Follow these steps to get started
 2. Install Dependencies:
 Ensure you have Python installed, then run:
 
-'''bash
-
+```bash
 pip install qiskit cirq
-'''
+```
+
 3. Explore Projects:
 
 Start from the beginner/ folder to get comfortable with:
