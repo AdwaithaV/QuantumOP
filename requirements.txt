@@ -1,0 +1,12 @@
+# Quantum Computing Libraries
+qiskit==1.0.2
+cirq==1.1.0
+
+# Notebook support (optional but common for tutorials)
+notebook
+jupyterlab
+
+# Scientific and numerical Python libraries (if used in your code)
+numpy
+scipy
+matplotlib
