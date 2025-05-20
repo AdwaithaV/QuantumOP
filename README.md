@@ -53,7 +53,11 @@ Entanglement
 
 Then explore intermediate projects for algorithms and circuit synthesis.
 
+
+
 🤝 Contributing
+
+
 We welcome contributions from the community! To contribute:
 
 Fork the repository
@@ -64,7 +68,11 @@ Make your changes with clear commit messages
 
 Submit a Pull Request (PR) with a detailed explanation of your changes
 
+
+
 📄 License
+
+
 This project is licensed under the BSD 3-Clause License.
 
 You may freely use, modify, and distribute this project with attribution. However, the license disclaims warranties and limits liability.
@@ -74,17 +82,28 @@ See the full license text in the LICENSE file.
 
 
 🧩 Topics
+
+
 quantum • quantum-computing • quantum-algorithms • qiskit • cirq • quantumma
 
 
 📚 Resources
+
+
 [Qiskit Textbook](https://github.com/RafeyIqbalRahman/Qiskit-Textbook)
+
+
 
 [Cirq Documentation](https://quantumai.google/reference/python/cirq/all_symbols)
 
 
+
 👤 Author
+
+
 Adwaitha V
+https://github.com/AdwaithaV/
+adwaithav063@gmail.com 
 
 
 🌟 Support
