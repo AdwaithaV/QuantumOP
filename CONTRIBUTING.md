@@ -74,7 +74,7 @@ Open a Pull Request (PR) on GitHub and describe what you’ve changed
 
 
 
-#**🧑‍💻 Coding Guidelines**
+**🧑‍💻 Coding Guidelines**
 
 
 Use clear and meaningful variable names
