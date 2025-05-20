@@ -42,10 +42,8 @@ This repository contains my Quantum Projects i did through various workshops and
 
 
 
-8) Bell states
 
-
-9) SuperDense Coding
+8) SuperDense Coding
 
 
 
