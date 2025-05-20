@@ -80,6 +80,11 @@ You may freely use, modify, and distribute this project with attribution. Howeve
 See the full license text in the LICENSE file.
 
 
+![License](https://img.shields.io/github/license/AdwaithaV/QuantumOP)
+
+
+
+
 
 ## 🧩 Topics
 
@@ -113,5 +118,5 @@ adwaithav063@gmail.com
 If you find this project helpful, please consider giving it a ⭐ and sharing it with others in the quantum community!
 
 
-
+![Last Commit](https://img.shields.io/github/last-commit/AdwaithaV/QuantumOP)
 
