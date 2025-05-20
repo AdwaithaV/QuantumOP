@@ -159,4 +159,4 @@ This repository contains my Quantum Projects i did through various workshops and
 
 10) Advanced Quantum Game Simulation
 
-I could see most of the projects are repaeting i want a proffesional wee structured projects for my github repo 
+
